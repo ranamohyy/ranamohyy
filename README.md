@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranamohyy&label=Profile%20views&color=0e75b6&style=flat" alt="ranamohyy" /> </p>
 
-- 🌱 I’m currently learning **ios devolpment**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ranamohyy](https://github.com/ranamohyy)
 
