@@ -5,12 +5,21 @@
   <img src="https://komarev.com/ghpvc/?username=ranamohyy&label=Profile%20views&color=0e75b6&style=flat" alt="ranamohyy" />
 </p>
 
-- 👩‍🏫 I'm also a **Code Instructor** teaching programming basics to beginners  
+<p>
+I'm a passionate <strong>Flutter Developer</strong> with <strong>1.5 years of hands-on experience</strong> in mobile app development. I’ve worked in <strong>two software companies</strong> and delivered several real-world projects using Flutter, Firebase, and Dart.  
+</p>
+
+<p>
+I'm also the founder of my own coding academy where I help students start their journey into the world of programming through fun and interactive sessions.  
+👉 <a href="https://www.facebook.com/share/1CJEge2ajC/?mibextid=wwXIfr" target="_blank"><strong>Visit My Academy</strong></a>
+</p>
+
+- 👩‍🏫 I’m a **Code Instructor** teaching programming basics to beginners  
 - 🧠 I’m learning and teaching **HTML**, **Scratch**, **Python**, and **Game Development with Scratch**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ranamohyy](https://github.com/ranamohyy)
 
-- 📫 How to reach me **ranaamr22@gmail.com**
+- 📫 How to reach me: **ranaamr22@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -53,20 +62,5 @@
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
