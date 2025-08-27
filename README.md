@@ -6,7 +6,7 @@
 </p>
 
 <p>
-I'm a passionate <strong>Flutter Developer</strong> with <strong>1.5 years of hands-on experience</strong> in mobile app development. I’ve worked in <strong>two software companies</strong> and delivered several real-world projects using Flutter, Firebase, and Dart.  
+I'm a passionate <strong>Flutter Developer</strong> with <strong>1.5 years of hands-on experience</strong> in mobile app development. I’ve worked in <strong>two software companies and trained in <strong>four others </strong> and delivered several real-world projects using Flutter, Firebase, and Dart.  
 </p>
 
 <p>
