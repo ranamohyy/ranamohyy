@@ -6,9 +6,8 @@
 </p>
 
 <p>
-I'm a passionate <strong>Flutter Developer</strong> with <strong>2
-  
-years of hands-on experience</strong> in mobile app development. I’ve worked in <strong>two software companies and trained in <strong>four others </strong> and delivered several real-world projects using Flutter, Firebase, and Dart.  
+I'm a passionate <strong>Flutter Developer</strong> with <strong>2 years of hands-on experience</strong> in mobile app development.  
+I’ve worked in <strong>two software companies</strong> and trained in <strong>four others</strong>, delivering several real-world projects using Flutter, Firebase, and Dart.  
 </p>
 
 <p>
@@ -16,8 +15,10 @@ I'm also the founder of my own coding academy where I help students start their 
 👉 <a href="https://www.facebook.com/share/1CJEge2ajC/?mibextid=wwXIfr" target="_blank"><strong>Visit My Academy</strong></a>
 </p>
 
-- 👩‍🏫 I’m a **Code Instructor** teaching programming basics to beginners  
-- 🧠 I’m learning and teaching **HTML**, **Scratch**, **Python**, and **Game Development with Scratch**
+- 👩‍🏫 I’m a **Flutter & Code Instructor** teaching app development and programming basics to beginners  
+- 🧠 I teach **Flutter**, **Dart**, **HTML**, **Scratch**, **Python**, and **Game Development with Scratch**  
+- 🎥 Check out my tutorials on YouTube:  
+  👉 <a href="YOUR_YOUTUBE_LINK_HERE" target="_blank"><strong>Flutter With Rana on YouTube</strong></a>  
 
 - 👨‍💻 All of my projects are available at [https://github.com/ranamohyy](https://github.com/ranamohyy)
 
@@ -33,6 +34,9 @@ I'm also the founder of my own coding academy where I help students start their 
   </a>
   <a href="https://www.tiktok.com/@flutterwithme0" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" alt="tiktok" height="30" width="40" />
+  </a>
+  <a href="https://youtube.com/playlist?list=PLNUQpaOb43nmIae7qXaW6hfVMQ9LZLlYF&si=wOGsT4Y7Wux5L7v0" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="youtube" height="30" width="40" />
   </a>
 </p>
 
